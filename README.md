@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fauziru
 - 👀 I’m interested in lot of web and app technology
-- 🌱 I’m currently learning vue, nuxt and laravel
+- 🌱 I’m currently learning react, .Net c# and python
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me on fauzirezaumr@gmail.com
 
