@@ -4,10 +4,9 @@
 - 👀 I’m interested in IOT, web and app technology
 
 ## 📈 Stats
-
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=fauziru)
-
-![Streaks Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziru&hide_progress=true)
+Streak             |  Language
+:-------------------------:|:-------------------------:
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=fauziru)  |  ![Streaks Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziru&hide_progress=true)
 
 ## 🔗 Links
 
