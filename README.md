@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fauzi Reza Umara
 <a align="left" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Fauzi+Reza+Umara;下で下で下で下で下で下で下で下で下で下で下で下で下で下で;mi+chiamo+Fauzi+Reza+Umara;nama+saya+Fauzi+Reza+Umara;je m'applle+Fauzi+Reza+Umara;اسمي فوزي رضا عمارة" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Fauzi+Reza+Umara;mi+chiamo+Fauzi+Reza+Umara;nama+saya+Fauzi+Reza+Umara;je m'applle+Fauzi+Reza+Umara;اسمي فوزي رضا عمارة" alt="Typing SVG" />
 </a>
 ### Software Engineer [@LCS](https://github.com/lcs-indonesia)
 - 🔭 I’m currently working on [LCS](https://github.com/lcs-indonesia)
