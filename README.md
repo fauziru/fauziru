@@ -1,4 +1,7 @@
 # Hi 👋, I'm Fauzi Reza Umara
+<a align="left" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Fauzi+Reza+Umara;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%8F%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%85%E3%83%AA%E3%83%A4%E3%83%B3%E3%82%B7%E3%83%A4%E3%83%95%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0;mi+chiamo+Zulian+Adryan+Syah+Pratama;nama+saya+Fauzi+Reza+Umara" alt="Typing SVG" />
+</a>
 ### Software Engineer [@LCS](https://github.com/lcs-indonesia)
 - 🔭 I’m currently working on [LCS](https://github.com/lcs-indonesia)
 - 👀 I’m interested in IOT, web and app technology
