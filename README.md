@@ -33,12 +33,6 @@ Streak             |  Language
 - [2] Gallegos-Calderón, Christian & Naranjo-Pérez, Javier & Díaz, Ivan & Goicolea, José. (2021). Identification of a Human-Structure Interaction Model on an Ultra-Lightweight FRP Footbridge. Applied Sciences. 
 - [3] Fernando Ernanda. (2023). Maximizing Performance with C# Multithreading: Tips and Best Practices. Medium.com.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
 <!---
 fauziru/fauziru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
