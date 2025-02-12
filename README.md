@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&color=F79418FF&random=false&width=1000&height=100&lines=my+name+is+Fauzi+Reza+Umara;mi+chiamo+Fauzi+Reza+Umara;nama+saya+Fauzi+Reza+Umara;je m'applle+Fauzi+Reza+Umara;اسمي فوزي رضا عمارة" alt="Typing SVG" />
 </a>
 
-### Software Engineer [@LCS](https://github.com/lcs-indonesia)
-- 🔭 I’m currently working on [LCS](https://github.com/lcs-indonesia)
+### .NET Developer 
+- 🔭 I’m currently working on Code.id
 - 👀 I’m interested in IOT, web and app technology
 
 ## 📈 Stats
